@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="200dp"
+    android:viewportWidth="400"
+    android:viewportHeight="200">
+    <path
+        android:fillColor="#1A1C19"
+        android:pathData="M0,0h400v200h-400z" />
+    <path
+        android:fillColor="#D7E8CD"
+        android:pathData="M0,0 L250,0 L180,200 L0,200 Z"
+        android:alpha="0.2" />
+    <path
+        android:fillColor="#BFC9BA"
+        android:pathData="M150,0 L400,0 L400,200 L280,200 Z"
+        android:alpha="0.15" />
+    <!-- Center Trophy Shape -->
+    <path
+        android:fillColor="#D7E8CD"
+        android:pathData="M180,140 L160,80 L185,100 L200,60 L215,100 L240,80 L220,140 Z" />
+</vector>

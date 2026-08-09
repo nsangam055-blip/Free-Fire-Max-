@@ -1,0 +1,6 @@
+{
+  "name": "FF MAX Tournament",
+  "description": "Free Fire MAX Tournament platform with UPI QR payment verification, AI Organiser Intelligence, and Real-Time Leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

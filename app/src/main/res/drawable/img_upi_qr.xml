@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M0,0h200v200h-200z" />
+    <!-- Outer Corners -->
+    <path
+        android:fillColor="#1A1C19"
+        android:pathData="M15,15h50v50h-50z M25,25v30h30v-30z M35,35h10v10h-10z" />
+    <path
+        android:fillColor="#1A1C19"
+        android:pathData="M135,15h50v50h-50z M145,25v30h30v-30z M155,35h10v10h-10z" />
+    <path
+        android:fillColor="#1A1C19"
+        android:pathData="M15,135h50v50h-50z M25,145v30h30v-30z M35,155h10v10h-10z" />
+    <!-- QR Data Patterns -->
+    <path
+        android:fillColor="#1A1C19"
+        android:pathData="M80,15h15v15h-15z M105,15h15v15h-15z M80,40h35v10h-35z M80,60h15v30h-15z M105,75h20v15h-20z M135,75h15v15h-15z" />
+    <path
+        android:fillColor="#1A1C19"
+        android:pathData="M15,80h30v15h-30z M55,80h15v15h-15z M15,105h15v20h-15z M40,105h30v15h-30z" />
+    <path
+        android:fillColor="#1A1C19"
+        android:pathData="M80,105h15v15h-15z M105,105h30v25h-30z M145,105h40v15h-40z M165,130h20v20h-20z" />
+    <path
+        android:fillColor="#1A1C19"
+        android:pathData="M80,135h30v15h-30z M120,135h30v30h-30z M80,160h25v25h-25z M115,175h30v10h-30z M155,160h30v25h-30z" />
+    <!-- Center UPI Logo Badge -->
+    <path
+        android:fillColor="#D7E8CD"
+        android:pathData="M85,85h30v30h-30z" />
+    <path
+        android:fillColor="#1A1C19"
+        android:pathData="M92,92h16v16h-16z" />
+</vector>
